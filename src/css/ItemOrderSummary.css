@@ -1,0 +1,15 @@
+.itemCont {
+    display: flex;
+    flex-direction: row;
+    margin-top: 40px;
+}
+
+.itemleftPart {
+    width: 821px;
+
+}
+
+.itemRightPart {
+    margin-left: 32px;
+
+}

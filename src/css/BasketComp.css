@@ -1,0 +1,23 @@
+.cont {
+    height: 149px;
+    display: flex;
+    flex-direction: row;
+    border-bottom: solid;
+    border-bottom-width: 0.5px;
+    border-color: #E6E6E6;
+}
+
+.basText {
+    padding-top: 56px;
+    font-size: 64px;
+    display: flex;
+    align-items: center;
+}
+
+.itmText {
+    padding-left: 20px;
+    padding-top: 90px;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+}
